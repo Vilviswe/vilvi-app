@@ -1,0 +1,4 @@
+﻿:root { --bg:#0f0f12; --fg:#f4f6ff; }
+* { box-sizing: border-box; }
+html,body { padding:0; margin:0; }
+body { background:var(--bg); color:var(--fg); }
